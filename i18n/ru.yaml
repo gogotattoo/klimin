@@ -1,0 +1,15 @@
+# profile
+- id: profile.description
+  translation: ""
+
+
+- id: nav.tattoo
+  translation: "Тату"
+- id: nav.design
+  translation: "Дизайн"
+- id: nav.henna
+  translation: "Хна"
+- id: nav.piercing
+  translation: "Пирсинг"
+- id: nav.dreadlocks
+  translation: "Дреды"

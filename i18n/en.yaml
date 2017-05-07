@@ -1,0 +1,22 @@
+
+# profile
+- id: profile.experience
+  translation: ""
+- id: profile.location
+  translation: "Gatchina"
+- id: profile.origin
+  translation: "Russia"
+- id: profile.description
+  translation: "..."
+
+
+- id: nav.tattoo
+  translation: "Tattoo"
+- id: nav.design
+  translation: "Design"
+- id: nav.henna
+  translation: "Henna"
+- id: nav.piercing
+  translation: "Piercing"
+- id: nav.dreadlocks
+  translation: "Dreadlocks"

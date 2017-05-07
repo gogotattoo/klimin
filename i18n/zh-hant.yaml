@@ -1,0 +1,16 @@
+- id: profile.description
+  translation: ""
+
+#
+- id: nav.tattoo
+  translation: "紋身"
+- id: nav.design
+  translation: "設計"
+- id: nav.henna
+  translation: "海娜"
+- id: nav.piercing
+  translation: "穿孔"
+- id: nav.dreadlocks
+  translation: "臟辮"
+- id: nav.contact
+  translation: "聯繫我"

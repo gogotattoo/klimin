@@ -1,13 +1,13 @@
 
 # profile
 - id: profile.experience
-  translation: ""
+  translation: "8 years"
 - id: profile.location
   translation: "Gatchina"
 - id: profile.origin
   translation: "Russia"
 - id: profile.description
-  translation: "..."
+  translation: "At the age of 15, I started to make tattoos, when I made the first device with only the motor of the car stereo and a guitar string. At the age of 18, I graduated from the Biotek tattoo school. I work in different styles, but prefer a colored tattoo."
 
 
 - id: nav.tattoo

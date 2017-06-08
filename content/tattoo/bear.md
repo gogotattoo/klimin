@@ -14,4 +14,7 @@ location_city = "Gatchina"
 location_country = "Russia"
 made_at_shop = "aid_tattoo"
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/klimin-gogo-tattoo-klimin-ru-tattoo-bear"
+steem = "tattoo/@gogo.tattoo/klimin-gogo-tattoo-klimin-tattoo-bear"
 +++

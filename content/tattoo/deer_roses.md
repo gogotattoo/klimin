@@ -18,5 +18,5 @@ previous = ""
 
 [blockchain]
 golos = "tattoo/@gogo.tattoo/klimin-gogo-tattoo-klimin-ru-deerroses"
-steem = "tattoo/@gogo.tattoo/klimin-gogo-tattoo-klimin-deerroses"
+steem = "tattoo/@gogo.tattoo/vitaly-klimin-gogo-tattoo-klimin-tattoo-deerroses"
 +++

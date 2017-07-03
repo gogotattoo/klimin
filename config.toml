@@ -23,7 +23,7 @@ favicon = "favicon.ico"
 
 [params.profile]
   name = "Vitaly Klimin"
-  avatar = "images/klimin.png"
+  avatar = "/images/klimin.png"
   description = "profile.description"
   experience = "profile.experience"
   location = "profile.location"

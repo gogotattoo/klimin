@@ -17,5 +17,7 @@ made_at_shop = "aid_tattoo"
 previous = ""
 
 [blockchain]
+golos = "tattoo/@gogo.tattoo/vitalii-klimin-gogo-tattoo-klimin-ru-tattoo-goodluck"
+steem = "tattoo/@gogo.tattoo/vitaly-klimin-gogo-tattoo-klimin-tattoo-goodluck"
 
 +++

@@ -15,4 +15,7 @@ location_country = "Russia"
 made_at_shop = "aid_tattoo"
 previous = ""
 
+[blockchain]
+golos = "tattoo/@gogo.tattoo/klimin-gogo-tattoo-klimin-ru-swallow"
+steem = "tattoo/@gogo.tattoo/klimin-gogo-tattoo-klimin-swallow"
 +++

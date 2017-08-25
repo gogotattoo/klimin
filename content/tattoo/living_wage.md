@@ -18,7 +18,7 @@ made_at_shop = "aid_tattoo"
 previous = ""
 
 [blockchain]
-golos = "tattoo/@gogo.tattoo/klimin-gogo-tattoo-klimin-ru-livingwage"
-steem = "tattoo/@gogo.tattoo/klimin-gogo-tattoo-klimin-livingwage"
+golos = "tattoo/@gogo.tattoo/klimin-gogo-tattoo-klimin-ru-tattoo-livingwage"
+steem = "tattoo/@gogo.tattoo/klimin-gogo-tattoo-klimin-tattoo-livingwage"
 
 +++

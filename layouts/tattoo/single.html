@@ -16,23 +16,22 @@
                    {{ partial "controls.html" . }}
                  <div id="tattoo-wrapper">
                     <div class="one-column" id="list">
-											{{ range .Params.images }}
-												{{ if not (eq $.Params.image .) }}
-		              				<div class="pin">
-														<figure>
-															<img class="tattoo-image"
-																src="{{ $.Site.BaseURL }}images/tattoo/{{ . }}.jpg"
-																alt="{{ $.Title }}">
-														</figure>
-													</div>
-												 {{ end }}
-											{{ end }}
 											{{ range .Params.images_ipfs }}
   	              				<div class="pin">
   													<figure>
   														<img class="tattoo-image"
   															src="https://gateway.ipfs.io/ipfs/{{ . }}"
   															alt="{{ $.Title }}">
+  													</figure>
+  												</div>
+											{{ end }}
+                      {{ range .Params.videos_ipfs }}
+  	              				<div class="pin">
+  													<figure>
+                              <video width="260" class="tattoo-video" loop>
+                                <source src="https://gateway.ipfs.io/ipfs/{{ . }}" type="video/mp4">
+                              Your browser does not support the video tag.
+                              </video>
   													</figure>
   												</div>
 											{{ end }}
